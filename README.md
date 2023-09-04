@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jalajshri.
+- 👋 Hi, I’m Jalaj Shrivastava
 - 👀 I’m interested in Data Science and Analytics.
 - 🌱 I’m currently learning Python and starting to learn the basics for Data science and Analytics.
 - (I also produce music hehe...)
